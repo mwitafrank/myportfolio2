@@ -1074,7 +1074,7 @@ textarea.input-field {
    * HEADER
    */
 
-  .header { padding-block: 30px; }
+  .header { padding-block: 30px;}
 
   .header.active { padding-block: 15px; }
 
@@ -1124,6 +1124,7 @@ textarea.input-field {
     max-width: unset;
     height: 100%;
     margin-bottom: 0;
+    margin-top: 100px;
   }
 
   .hero img {
